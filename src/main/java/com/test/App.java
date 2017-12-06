@@ -4,7 +4,7 @@ import java.util.UUID;
 
 /**
  *
-Example code
+Example code testing the jenkins auto build
  *
  */
 public class App 
