@@ -3,7 +3,7 @@ package com.test;
 import java.util.UUID;
 
 /**
-adding comment.
+adding comment to test
  *
 Example code testing the jenkins auto build
  *
