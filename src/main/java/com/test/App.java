@@ -3,7 +3,7 @@ package com.test;
 import java.util.UUID;
 
 /**
-adding comment to test
+adding comment to test cicd git push trigger
  *
 Example code testing the jenkins auto build
  *
